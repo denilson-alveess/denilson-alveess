@@ -6,8 +6,6 @@ Profissional de Tecnologia da Informação com atuação em ambientes de TI e Cy
 
 Sou graduando em Segurança da Informação (Anhanguera) e certificado pela Cisco Networking Academy em IT Support e Network Essentials, além de cursos em Cybersecurity e Gestão de Infraestrutura de TI. Atualmente, direciono minha carreira para atuação técnica como Analista de Suporte, Help Desk ou Infraestrutura Júnior, com foco em ambientes corporativos e evolução contínua na área de segurança.
 
-Inglês básico, com foco em leitura técnica e desenvolvimento contínuo.
-
 <p align="left">
   <a href="https://www.linkedin.com/in/denilsonalvess">
     <img 
