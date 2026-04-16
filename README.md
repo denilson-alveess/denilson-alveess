@@ -2,9 +2,7 @@
 
 **`Analista de Suporte Júnior`**
 
-Profissional de Tecnologia da Informação com atuação em ambientes de TI e Cybersecurity, com experiência em empresas de tecnologia e telecomunicações, participando da estruturação, comunicação e suporte a soluções tecnológicas voltadas à infraestrutura e segurança da informação.
-
-Possuo base técnica em suporte ao usuário, sistemas operacionais Windows e Linux, Microsoft 365, redes (TCP/IP, DNS, DHCP), monitoramento e boas práticas de segurança, construída por meio de certificações, estudos contínuos e Home Lab próprio, onde realizo atividades práticas envolvendo infraestrutura, redes e sistemas.
+Profissional de Tecnologia da Informação com atuação em ambientes de TI e Cybersecurity, com experiência em empresas de tecnologia e telecomunicações.
 
 Sou graduando em Segurança da Informação (Anhanguera) e certificado pela Cisco Networking Academy em IT Support e Network Essentials, além de cursos em Cybersecurity e Gestão de Infraestrutura de TI. Atualmente, direciono minha carreira para atuação técnica como Analista de Suporte, Help Desk ou Infraestrutura Júnior, com foco em ambientes corporativos e evolução contínua na área de segurança.
 
